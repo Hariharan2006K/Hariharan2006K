@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariharan K</h1>
-<h3 align="center">A passionate Web and App developer from India</h3>
+<h3 align="center">A passionate and a buddding Web and App developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
