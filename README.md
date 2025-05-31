@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI0NWxpNmk3dGl6YWUzNnFoZWhvYjQyamRkYzRvcXI4dDFiMmdsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSokmQw2ZZ9sUNZFsJ/giphy.gif  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI0NWxpNmk3dGl6YWUzNnFoZWhvYjQyamRkYzRvcXI4dDFiMmdsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSokmQw2ZZ9sUNZFsJ/giphy.gif"  />
 </div>
 
 ###
@@ -25,7 +25,7 @@
 
 ###
 
-<h1 align="center">Hello World👋 </h1>
+<h1 align="center">Hello World</h1>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Hariharan K from INDIA <br><br>- 🔭 I’m an Aspiring Web and App Dev<br>- 📚 I'm currently learning MERN <br>- ⚡ In my free time I learn Kotlin and Rice in Arch Linuux</p>
+<p align="center">I'm Hariharan K from INDIA <br><br>- 🔭 I’m an Aspiring Web and App Dev<br>- 📚 I'm currently learning MERN <br>- ⚡ In my free time I learn Kotlin and Rice in Arch Linuux</p>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -86,9 +86,18 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hariharan2006K&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hariharan2006K&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2&custom_title=Widely%20Uses" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharan2006K&area=false&hide_border=false&theme=nord" height="150" alt="activity-graph graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hariharan2006K&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Hariharan2006K&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharan2006K&area=false&hide_border=false&theme=nord" height="150" alt="activity-graph graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hariharan2006K/Hariharan2006K/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hariharan2006K/Hariharan2006K/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hariharan2006K/Hariharan2006K/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
